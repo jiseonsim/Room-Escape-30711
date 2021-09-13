@@ -1,3 +1,9 @@
+/*
+개발자: 심지선, 김민서
+개발일: 2021.09.08.
+문의: bcb9346@naver.com
+*/
+
 #include <stdio.h>
 #include <windows.h>
 #include <conio.h>
